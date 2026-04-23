@@ -1,6 +1,6 @@
 # Smart Blind Navigator
 
-An intelligent, modular indoor navigation system designed to empower visually impaired individuals. Using an Arduino Mega backbone, this system utilizes RFID checkpoints, inertial motion sensing, and adaptive audio feedback to provide real-time, hands-free guidance through complex indoor environments.
+An intelligent, modular indoor navigation system designed to empower visually impaired individuals. Using an Arduino backbone, this system utilizes RFID checkpoints, inertial motion sensing, and adaptive audio feedback to provide real-time, hands-free guidance through complex indoor environments.
 
 ## What the Project Does
 
